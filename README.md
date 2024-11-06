@@ -1,4 +1,4 @@
-**Project Overview**
+**Project Overview** (On going assignment, finish date: Dec 1, 2024)
 
 This project implements a simplified operating system in Java, focusing on memory management and inter-process communication (IPC). 
 The primary goal is to simulate core operating system concepts like virtual memory translation, TLB (Translation Lookaside Buffer) management, and IPC mechanisms between userland processes.
